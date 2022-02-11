@@ -1,0 +1,1246 @@
+Archive member included to satisfy reference by file (symbol)
+
+../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+                              build/cortex-m0/main.o (button_subscribe)
+../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+                              (_start)
+../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o) (tock_command_return_novalue_to_returncode)
+../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+                              build/cortex-m0/main.o (led_on)
+../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o) (__gnu_thumb1_case_uqi)
+../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+                              build/cortex-m0/main.o (__aeabi_idiv)
+../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+                              ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o) (exit)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o) (memcpy)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o) (memset)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o) (printf)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o) (__sinit)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o) (_fwalk)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o) (_malloc_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o) (_vfprintf_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o) (_printf_i)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o) (_sbrk_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o) (__sread)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o) (_write_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o) (_close_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o) (_fflush_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o) (_lseek_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o) (memchr)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o) (memmove)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o) (__malloc_lock)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o) (_free_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o) (_realloc_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o) (_read_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o) (errno)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o) (_fstat_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o) (_isatty_r)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o) (_isatty)
+../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o) (putnstr)
+../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o) (__gnu_thumb1_case_shi)
+../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+                              ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o) (__aeabi_uidivmod)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o) (__errno)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o) (malloc)
+../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+                              ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o) (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/cortex-m0/main.o
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .text.button_count
+                0x0000000000000000       0x26 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .text.button_disable_interrupt
+                0x0000000000000000       0x24 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .text.button_read
+                0x0000000000000000       0x28 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .text._c_start_nopic
+                0x0000000000000000       0x38 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_enqueue
+                0x0000000000000000       0x6c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_command_return_u32_to_returncode
+                0x0000000000000000       0x28 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_allow_rw_return_to_returncode
+                0x0000000000000000       0x1a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_allow_ro_return_to_returncode
+                0x0000000000000000       0x1a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.yield_for
+                0x0000000000000000       0x12 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.yield_no_wait
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_exit
+                0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_restart
+                0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.allow_readonly
+                0x0000000000000000       0x3a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.allow_readwrite
+                0x0000000000000000       0x38 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.memop    0x0000000000000000       0x34 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_memory_begins_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_memory_ends_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_flash_begins_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_flash_ends_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_grant_begins_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_number_writeable_flash_regions
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_writeable_flash_region_begins_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_app_writeable_flash_region_ends_at
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.driver_exists
+                0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .rodata.tock_strrcode.str1.1
+                0x0000000000000000      0x1c8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_strrcode
+                0x0000000000000000       0xb8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_strerr
+                0x0000000000000000        0xe ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .rodata.tock_expect.str1.1
+                0x0000000000000000       0x65 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_expect
+                0x0000000000000000       0x54 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .text.led_count
+                0x0000000000000000       0x26 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .text.led_toggle
+                0x0000000000000000       0x24 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .text          0x0000000000000000       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .text.printf   0x0000000000000000       0x44 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.std      0x0000000000000000       0x58 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000000000       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sinit  0x0000000000000000       0x7c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000       0x94 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x24 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x38 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x0000000000000000       0x42 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xcc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x0000000000000000       0x2a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x0000000000000000       0x24 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .rodata._vfprintf_r.str1.1
+                0x0000000000000000       0x11 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text._vfprintf_r
+                0x0000000000000000      0x27c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x24 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x0000000000000000       0xe0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .rodata._printf_i.str1.1
+                0x0000000000000000       0x22 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x0000000000000000      0x234 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text.__sread  0x0000000000000000       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text.__swrite
+                0x0000000000000000       0x38 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text.__sseek  0x0000000000000000       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text.__sclose
+                0x0000000000000000        0xc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .text.__swbuf_r
+                0x0000000000000000       0xbc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .text._write_r
+                0x0000000000000000       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x0000000000000000      0x104 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .text._close_r
+                0x0000000000000000       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000000000      0x120 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x0000000000000000       0x68 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x38 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x2cc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x0000000000000000       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x0000000000000000       0x50 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x0000000000000000       0x98 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .text.memchr   0x0000000000000000       0x16 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x26 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0x2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0xa0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x60 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .text._read_r  0x0000000000000000       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xd8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ COMMON         0x0000000000000000        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x0000000000000000       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x0000000000000000       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._unlink  0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._isatty  0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._open    0x0000000000000000        0xa ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._write   0x0000000000000000       0x10 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._close   0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._fstat   0x0000000000000000        0xa ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._lseek   0x0000000000000000        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._read    0x0000000000000000        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._getpid  0x0000000000000000        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._kill    0x0000000000000000        0x6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text._sbrk    0x0000000000000000       0x28 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.getnstr_upcall
+                0x0000000000000000       0x18 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.putnstr_async
+                0x0000000000000000       0x5e ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.putnstr  0x0000000000000000       0xa0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.putstr_upcall
+                0x0000000000000000       0x44 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.getnstr_async
+                0x0000000000000000       0x5e ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.getnstr  0x0000000000000000       0x40 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.getch    0x0000000000000000       0x1c ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text.getnstr_abort
+                0x0000000000000000       0x22 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .text          0x0000000000000000       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .text          0x0000000000000000       0x8c ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000000000       0x1c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x1c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+ .text.strncpy  0x0000000000000000       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000080000000 0x0000000000070000 xr
+SRAM             0x0000000000000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000800                STACK_SIZE = 0x800
+                0x0000000000002000                APP_HEAP_SIZE = 0x2000
+                0x0000000000000400                KERNEL_HEAP_SIZE = 0x400
+START GROUP
+LOAD build/cortex-m0/main.o
+LOAD ../../libtock-c/libtock/build/cortex-m0/libtock.a
+LOAD ../drivers/build/cortex-m0/drivers.a
+LOAD ../../libtock-c/libc++/cortex-m/libstdc++.a
+LOAD ../../libtock-c/libc++/cortex-m/libsupc++.a
+LOAD ../../libtock-c/libc++/cortex-m/libgcc.a
+LOAD ../../libtock-c/newlib/cortex-m/v6-m/libc.a
+LOAD ../../libtock-c/newlib/cortex-m/v6-m/libm.a
+END GROUP
+                0x0000000000070000                PROG_LENGTH = 0x70000
+                0x0000000000010000                RAM_LENGTH = 0x10000
+
+.crt0_header    0x0000000080000000       0x28
+                0x0000000080000000        0x4 LONG 0x684 (LOADADDR (.got) - ORIGIN (FLASH))
+                0x0000000080000004        0x4 LONG 0x800 (_got - ORIGIN (SRAM))
+                0x0000000080000008        0x4 LONG 0x2c SIZEOF (.got)
+                0x000000008000000c        0x4 LONG 0x6b0 (LOADADDR (.data) - ORIGIN (FLASH))
+                0x0000000080000010        0x4 LONG 0x82c (_data - ORIGIN (SRAM))
+                0x0000000080000014        0x4 LONG 0x70 SIZEOF (.data)
+                0x0000000080000018        0x4 LONG 0x89c (_bss - ORIGIN (SRAM))
+                0x000000008000001c        0x4 LONG 0x160 SIZEOF (.bss)
+                0x0000000080000020        0x4 LONG 0x720 (LOADADDR (.endflash) - ORIGIN (FLASH))
+                0x0000000080000024        0x4 LONG 0x800 STACK_SIZE
+
+.wfr.app_state  0x0000000080000028        0x0
+ *(.app_state)
+                0x0000000080000028                . = ALIGN (0x4)
+
+.text           0x0000000080000028      0x65c
+                0x0000000080000028                . = ALIGN (0x4)
+                0x0000000080000028                _text = .
+ *(.start)
+ .start         0x0000000080000028       0x40 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+                0x0000000080000028                _start
+ *(.text*)
+ .text.show_number
+                0x0000000080000068       0x3c build/cortex-m0/main.o
+ .text.show_temperature
+                0x00000000800000a4       0x48 build/cortex-m0/main.o
+ .text.button_callback
+                0x00000000800000ec       0x34 build/cortex-m0/main.o
+ .text.startup.main
+                0x0000000080000120       0x2c build/cortex-m0/main.o
+                0x0000000080000120                main
+ .text.button_subscribe
+                0x000000008000014c       0x22 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+                0x000000008000014c                button_subscribe
+ .text.button_enable_interrupt
+                0x000000008000016e       0x24 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+                0x000000008000016e                button_enable_interrupt
+ .text._c_start_pic
+                0x0000000080000192       0x86 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+                0x0000000080000192                _c_start_pic
+ .text.__yield_check_tasks
+                0x0000000080000218       0x5c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .text.tock_status_to_returncode
+                0x0000000080000274        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x0000000080000274                tock_status_to_returncode
+ .text.tock_command_return_novalue_to_returncode
+                0x0000000080000278       0x28 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x0000000080000278                tock_command_return_novalue_to_returncode
+ .text.tock_subscribe_return_to_returncode
+                0x00000000800002a0       0x1a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x00000000800002a0                tock_subscribe_return_to_returncode
+ .text.yield    0x00000000800002ba       0x10 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x00000000800002ba                yield
+ .text.subscribe
+                0x00000000800002ca       0x3a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x00000000800002ca                subscribe
+ .text.command  0x0000000080000304       0x1a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                0x0000000080000304                command
+ .text.led_on   0x000000008000031e       0x24 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+                0x000000008000031e                led_on
+ .text.led_off  0x0000000080000342       0x24 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+                0x0000000080000342                led_off
+ *fill*         0x0000000080000366        0x2 ff
+ .text          0x0000000080000368       0xa8 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+                0x0000000080000368                __aeabi_idiv
+                0x0000000080000368                __divsi3
+                0x00000000800003fc                __aeabi_idivmod
+ .text          0x0000000080000410        0x4 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+                0x0000000080000410                __aeabi_ldiv0
+                0x0000000080000410                __aeabi_idiv0
+ .text.exit     0x0000000080000414       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+                0x0000000080000414                exit
+ .text.memcpy   0x0000000080000448       0x12 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+                0x0000000080000448                memcpy
+ .text.memset   0x000000008000045a       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+                0x000000008000045a                memset
+ .text._exit    0x000000008000046a        0x2 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+                0x000000008000046a                _exit
+ *(.rodata*)
+ .rodata.numbers
+                0x000000008000046c      0x1b8 build/cortex-m0/main.o
+ .rodata.__sf_fake_stderr
+                0x0000000080000624       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+                0x0000000080000624                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000080000644       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+                0x0000000080000644                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000080000664       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+                0x0000000080000664                __sf_fake_stdout
+ *(.srodata*)
+ *(.syscalls)
+                0x0000000080000684                _etext = .
+ *(.ARM.extab*)
+                0x0000000080000684                . = ALIGN (0x4)
+
+.glue_7         0x0000000080000684        0x0
+ .glue_7        0x0000000080000684        0x0 linker stubs
+
+.glue_7t        0x0000000080000684        0x0
+ .glue_7t       0x0000000080000684        0x0 linker stubs
+
+.vfp11_veneer   0x0000000080000684        0x0
+ .vfp11_veneer  0x0000000080000684        0x0 linker stubs
+
+.v4_bx          0x0000000080000684        0x0
+ .v4_bx         0x0000000080000684        0x0 linker stubs
+
+.iplt           0x0000000080000684        0x0
+ .iplt          0x0000000080000684        0x0 build/cortex-m0/main.o
+
+.rel.dyn        0x0000000080000684        0x0
+ .rel.iplt      0x0000000080000684        0x0 build/cortex-m0/main.o
+ .rel.got       0x0000000080000684        0x0 build/cortex-m0/main.o
+
+.stack          0x0000000000000000      0x800
+                0x0000000000000000                _sram_origin = .
+                0x0000000000000000                . = ALIGN (0x10)
+                0x0000000000000000                _stack = .
+                0x0000000000000800                . = (_stack + STACK_SIZE)
+ *fill*         0x0000000000000000      0x800 
+                0x0000000000000800                . = ALIGN (0x10)
+
+.got            0x0000000000000800       0x2c load address 0x0000000080000684
+                0x0000000000000800                . = ALIGN (0x4)
+                0x0000000000000800                _got = .
+ *(.got*)
+ .got           0x0000000000000800       0x20 build/cortex-m0/main.o
+ .got.plt       0x0000000000000820        0xc build/cortex-m0/main.o
+                0x0000000000000820                _GLOBAL_OFFSET_TABLE_
+ *(.got.plt*)
+                0x000000000000082c                . = ALIGN (0x4)
+
+.data           0x000000000000082c       0x70 load address 0x00000000800006b0
+                0x000000000000082c                . = ALIGN (0x4)
+                0x000000000000082c                _data = .
+ *(.data*)
+ .data          0x000000000000082c        0x0 build/cortex-m0/main.o
+ .data          0x000000000000082c        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .data          0x000000000000082c        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .data.rel.impure_data
+                0x000000000000082c       0x60 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .data.rel.local._impure_ptr
+                0x000000000000088c        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+                0x000000000000088c                _impure_ptr
+ .data.rel.ro.local._global_impure_ptr
+                0x0000000000000890        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+                0x0000000000000890                _global_impure_ptr
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .data          0x0000000000000894        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .data.getnstr_data
+                0x0000000000000894        0x8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .data          0x000000000000089c        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .data          0x000000000000089c        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .data          0x000000000000089c        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .data          0x000000000000089c        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .data          0x000000000000089c        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+ *(.sdata*)
+                0x000000000000089c                . = ALIGN (0x4)
+
+.igot.plt       0x000000000000089c        0x0 load address 0x0000000080000720
+ .igot.plt      0x000000000000089c        0x0 build/cortex-m0/main.o
+
+.bss            0x000000000000089c      0x160 load address 0x0000000080000720
+                0x000000000000089c                . = ALIGN (0x4)
+                0x000000000000089c                _bss = .
+ *(.bss*)
+ .bss           0x000000000000089c        0x0 build/cortex-m0/main.o
+ .bss.temperature
+                0x000000000000089c        0x4 build/cortex-m0/main.o
+ .bss           0x00000000000008a0        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .bss           0x00000000000008a0        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .bss           0x00000000000008a0        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .bss.task_cur  0x00000000000008a0        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .bss.task_last
+                0x00000000000008a4        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .bss.task_queue
+                0x00000000000008a8      0x140 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .bss           0x00000000000009e8        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000000009e8        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+                0x00000000000009e8                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x00000000000009ec        0x4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+                0x00000000000009ec                __malloc_sbrk_start
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .bss           0x00000000000009f0        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .bss.__dso_handle
+                0x00000000000009f0        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+                0x00000000000009f0                __dso_handle
+ .bss           0x00000000000009f4        0x0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .bss.putstr_head
+                0x00000000000009f4        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .bss.putstr_tail
+                0x00000000000009f8        0x4 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .bss           0x00000000000009fc        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .bss           0x00000000000009fc        0x0 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000000009fc        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .bss           0x00000000000009fc        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .bss           0x00000000000009fc        0x0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+ *(.sbss*)
+ *(COMMON)
+                0x00000000000009fc                . = ALIGN (0x4)
+
+.endflash       0x0000000080000720        0x0
+                [!provide]                        PROVIDE (__exidx_start = .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                        PROVIDE (__exidx_end = .)
+                0x0000000000000001                ASSERT ((_got <= _bss), 
+The GOT section must be before the BSS section for crt0 setup to be correct.)
+                0x0000000000000001                ASSERT ((_data <= _bss), 
+The data section must be before the BSS section for crt0 setup to be correct.)
+OUTPUT(build/cortex-m0/cortex-m0.elf elf32-littlearm)
+LOAD linker stubs
+
+.GCC.command.line
+                0x0000000000000000      0x66b
+ .GCC.command.line
+                0x0000000000000000      0x437 build/cortex-m0/main.o
+ .GCC.command.line
+                0x0000000000000437       0x61 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+                                        0x46b (size before relaxing)
+ .GCC.command.line
+                0x0000000000000498       0x5d ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+                                        0x467 (size before relaxing)
+ .GCC.command.line
+                0x00000000000004f5       0x5d ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                                        0x467 (size before relaxing)
+ .GCC.command.line
+                0x0000000000000552       0x5b ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+                                        0x465 (size before relaxing)
+ .GCC.command.line
+                0x00000000000005ad       0x5b ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+                                        0x465 (size before relaxing)
+ .GCC.command.line
+                0x0000000000000608       0x63 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+                                        0x46d (size before relaxing)
+
+.comment        0x0000000000000000       0xd2
+ .comment       0x0000000000000000       0x59 build/cortex-m0/main.o
+                                         0x5a (size before relaxing)
+ .comment       0x0000000000000059       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .comment       0x0000000000000059       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .comment       0x0000000000000059       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .comment       0x0000000000000059       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .comment       0x0000000000000059       0x79 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+                                         0x7a (size before relaxing)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .comment       0x00000000000000d2       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .comment       0x00000000000000d2       0x5a ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .comment       0x00000000000000d2       0x7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2c
+ .ARM.attributes
+                0x0000000000000000       0x2c build/cortex-m0/main.o
+ .ARM.attributes
+                0x000000000000002c       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .ARM.attributes
+                0x0000000000000058       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .ARM.attributes
+                0x0000000000000084       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .ARM.attributes
+                0x00000000000000b0       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .ARM.attributes
+                0x00000000000000dc       0x1e ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000000000000fa       0x1e ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000118       0x1e ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000136       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000162       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000018e       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000001ba       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001e6       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000212       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000023e       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000000000000026a       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000296       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000000000002c2       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000000000002ee       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000031a       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000346       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000000372       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000000000000039e       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000003ca       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000000003f6       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000422       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000000000000044e       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000000000000047a       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000000004a6       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000000000004d2       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000000004fe       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000052a       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000556       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000582       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000000005ae       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000005da       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000606       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000632       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x000000000000065e       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .ARM.attributes
+                0x000000000000068a       0x2c ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .ARM.attributes
+                0x00000000000006b6       0x1e ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .ARM.attributes
+                0x00000000000006d4       0x1e ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000006f2       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000000000000071e       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000000000000074a       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_info     0x0000000000000000    0x21260
+ .debug_info    0x0000000000000000      0xc9f build/cortex-m0/main.o
+ .debug_info    0x0000000000000c9f      0xe6b ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_info    0x0000000000001b0a      0xde1 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_info    0x00000000000028eb     0x1bf0 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_info    0x00000000000044db      0xcb9 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_info    0x0000000000005194       0x26 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .debug_info    0x00000000000051ba       0x26 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_info    0x00000000000051e0       0x26 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000005206      0x9e7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_info    0x0000000000005bed      0x92a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000006517      0xf06 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x000000000000741d      0xec5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000082e2      0xc6e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_info    0x0000000000008f50     0x10b5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_info    0x000000000000a005      0xcac ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_info    0x000000000000acb1      0xc88 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_info    0x000000000000b939     0x1716 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x000000000000d04f     0x157d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x000000000000e5cc      0x9fb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000efc7      0xe72 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_info    0x000000000000fe39      0xc97 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_info    0x0000000000010ad0      0xa2d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_info    0x00000000000114fd      0xbfa ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_info    0x00000000000120f7      0x9d8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_info    0x0000000000012acf      0xd72 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_info    0x0000000000013841      0xefa ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x000000000001473b      0xa0e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_info    0x0000000000015149      0xf55 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_info    0x000000000001609e      0x9a3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_info    0x0000000000016a41      0xee8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000017929      0x961 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_info    0x000000000001828a      0xb58 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000018de2      0xb7a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_info    0x000000000001995c      0xa26 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_info    0x000000000001a382      0xb04 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_info    0x000000000001ae86      0xc24 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_info    0x000000000001baaa      0x9d8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_info    0x000000000001c482      0xaa6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_info    0x000000000001cf28     0x10b3 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_info    0x000000000001dfdb     0x159b ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_info    0x000000000001f576       0x26 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .debug_info    0x000000000001f59c       0x26 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_info    0x000000000001f5c2      0x953 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_info    0x000000000001ff15      0x9b6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_info    0x00000000000208cb      0x995 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_abbrev   0x0000000000000000     0x5d37
+ .debug_abbrev  0x0000000000000000      0x2ee build/cortex-m0/main.o
+ .debug_abbrev  0x00000000000002ee      0x238 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_abbrev  0x0000000000000526      0x27f ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_abbrev  0x00000000000007a5      0x44d ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_abbrev  0x0000000000000bf2      0x224 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_abbrev  0x0000000000000e16       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .debug_abbrev  0x0000000000000e2a       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000e3e       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000000000000e52      0x1f6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000001048      0x17a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000011c2      0x1e3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000000013a5      0x1c3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001568      0x294 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_abbrev  0x00000000000017fc      0x3b3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001baf      0x213 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000001dc2      0x2d8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x000000000000209a      0x2fd ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_abbrev  0x0000000000002397      0x2e4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x000000000000267b      0x212 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x000000000000288d      0x24f ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000002adc      0x26c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x0000000000002d48      0x1ec ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000002f34      0x23a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x000000000000316e      0x1e7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x0000000000003355      0x2c2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000003617      0x270 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000003887      0x1fb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x0000000000003a82      0x2f6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x0000000000003d78      0x1c3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_abbrev  0x0000000000003f3b      0x1c8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000004103      0x1c5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00000000000042c8      0x26e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x0000000000004536      0x23b ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_abbrev  0x0000000000004771      0x1e7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x0000000000004958      0x263 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x0000000000004bbb      0x1fb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000004db6      0x1e7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000000000004f9d      0x1e5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_abbrev  0x0000000000005182      0x2e8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_abbrev  0x000000000000546a      0x35e ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_abbrev  0x00000000000057c8       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .debug_abbrev  0x00000000000057dc       0x14 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00000000000057f0      0x198 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000005988      0x1ef ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000005b77      0x1c0 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_loc      0x0000000000000000     0x5592
+ .debug_loc     0x0000000000000000      0x31a build/cortex-m0/main.o
+ .debug_loc     0x000000000000031a      0x23b ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_loc     0x0000000000000555      0x347 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_loc     0x000000000000089c      0xcaf ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_loc     0x000000000000154b      0x178 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_loc     0x00000000000016c3       0x22 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_loc     0x00000000000016e5       0xfb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00000000000017e0       0x96 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_loc     0x0000000000001876       0x71 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_loc     0x00000000000018e7      0x2a8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000001b8f      0x23d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x0000000000001dcc      0x284 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x0000000000002050      0x783 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_loc     0x00000000000027d3      0x5eb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_loc     0x0000000000002dbe       0x6c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000002e2a      0x3a7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_loc     0x00000000000031d1      0x184 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x0000000000003355       0xdd ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000003432       0x90 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000034c2       0x6c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_loc     0x000000000000352e      0x364 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000003892      0x643 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000003ed5       0xdd ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000003fb2      0x25d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x000000000000420f       0xb8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_loc     0x00000000000042c7      0x109 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_loc     0x00000000000043d0      0x12b ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_loc     0x00000000000044fb      0x21c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_loc     0x0000000000004717       0xdd ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_loc     0x00000000000047f4       0xe7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_loc     0x00000000000048db       0xab ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x0000000000004986       0x6c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x00000000000049f2       0x8d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_loc     0x0000000000004a7f      0x261 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_loc     0x0000000000004ce0      0x745 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_loc     0x0000000000005425       0x64 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000005489      0x109 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_aranges  0x0000000000000000      0x840
+ .debug_aranges
+                0x0000000000000000       0x38 build/cortex-m0/main.o
+ .debug_aranges
+                0x0000000000000038       0x40 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_aranges
+                0x0000000000000078       0x30 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_aranges
+                0x00000000000000a8      0x108 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_aranges
+                0x00000000000001b0       0x38 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_aranges
+                0x00000000000001e8       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .debug_aranges
+                0x0000000000000208       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000228       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000248       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000268       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000280       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000002c0       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_aranges
+                0x00000000000002e8       0x68 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000350       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x0000000000000378       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x0000000000000398       0x40 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_aranges
+                0x00000000000003d8       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_aranges
+                0x0000000000000400       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000420       0x40 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000460       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x0000000000000488       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000000000004a8       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000004c8       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x00000000000004e8       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000518       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000538       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000558       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000580       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x0000000000000600       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_aranges
+                0x0000000000000620       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000640       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000668       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000688       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000000000006a8       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_aranges
+                0x00000000000006c8       0x78 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_aranges
+                0x0000000000000740       0x58 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_aranges
+                0x0000000000000798       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .debug_aranges
+                0x00000000000007b8       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000000000007d8       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000000000007f8       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000820       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_ranges   0x0000000000000000      0x790
+ .debug_ranges  0x0000000000000000       0x88 build/cortex-m0/main.o
+ .debug_ranges  0x0000000000000088       0x30 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_ranges  0x00000000000000b8       0x80 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_ranges  0x0000000000000138       0xf8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_ranges  0x0000000000000230       0x28 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_ranges  0x0000000000000258       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_ranges  0x0000000000000268       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x0000000000000278       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_ranges  0x0000000000000288       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_ranges  0x00000000000002a0       0x70 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000000310       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_ranges  0x0000000000000328       0x48 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x0000000000000370       0x50 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_ranges  0x00000000000003c0       0x70 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_ranges  0x0000000000000430       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x0000000000000440       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_ranges  0x0000000000000470       0x38 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_ranges  0x00000000000004a8       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_ranges  0x00000000000004b8       0x48 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000500       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_ranges  0x0000000000000510       0x68 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000578       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x00000000000005a8       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x00000000000005b8       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_ranges  0x00000000000005e8       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_ranges  0x00000000000005f8       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_ranges  0x0000000000000608       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_ranges  0x0000000000000618       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000000628       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_ranges  0x0000000000000638       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_ranges  0x0000000000000648       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_ranges  0x0000000000000678       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_ranges  0x0000000000000688       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_ranges  0x0000000000000698       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_ranges  0x00000000000006a8       0x68 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_ranges  0x0000000000000710       0x48 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_ranges  0x0000000000000758       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_ranges  0x0000000000000768       0x18 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_ranges  0x0000000000000780       0x10 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_line     0x0000000000000000     0x789e
+ .debug_line    0x0000000000000000      0x21b build/cortex-m0/main.o
+ .debug_line    0x000000000000021b      0x1ee ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_line    0x0000000000000409      0x2b6 ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_line    0x00000000000006bf      0x88b ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_line    0x0000000000000f4a      0x1b7 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_line    0x0000000000001101       0x6a ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .debug_line    0x000000000000116b       0x87 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_line    0x00000000000011f2       0x62 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000001254      0x1c8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_line    0x000000000000141c      0x131 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000154d      0x242 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x000000000000178f      0x227 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000019b6      0x2a4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_line    0x0000000000001c5a      0x5b2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_line    0x000000000000220c      0x301 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_line    0x000000000000250d      0x394 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_line    0x00000000000028a1      0x777 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x0000000000003018      0x6fb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0000000000003713      0x1e4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x00000000000038f7      0x2e3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_line    0x0000000000003bda      0x2fb ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_line    0x0000000000003ed5      0x1dc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_line    0x00000000000040b1      0x346 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000043f7      0x1e4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_line    0x00000000000045db      0x478 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_line    0x0000000000004a53      0x61f ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000005072      0x1dc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_line    0x000000000000524e      0x3a8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_line    0x00000000000055f6      0x1d5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_line    0x00000000000057cb      0x255 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000005a20      0x199 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_line    0x0000000000005bb9      0x2e6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_line    0x0000000000005e9f      0x22e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_line    0x00000000000060cd      0x1db ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_line    0x00000000000062a8      0x2cc ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_line    0x0000000000006574      0x275 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_line    0x00000000000067e9      0x1e5 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_line    0x00000000000069ce      0x1c3 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_line    0x0000000000006b91      0x2e8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_line    0x0000000000006e79      0x419 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_line    0x0000000000007292       0x6b ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .debug_line    0x00000000000072fd       0x79 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_line    0x0000000000007376      0x162 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_line    0x00000000000074d8      0x1f2 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_line    0x00000000000076ca      0x1d4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+
+.debug_str      0x0000000000000000     0x27d5
+ .debug_str     0x0000000000000000      0x59e build/cortex-m0/main.o
+                                        0x69d (size before relaxing)
+ .debug_str     0x000000000000059e      0x3e1 ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+                                        0x9de (size before relaxing)
+ .debug_str     0x000000000000097f      0x10c ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+                                        0x72e (size before relaxing)
+ .debug_str     0x0000000000000a8b      0x47c ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+                                        0xe27 (size before relaxing)
+ .debug_str     0x0000000000000f07       0x3b ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+                                        0x7d6 (size before relaxing)
+ .debug_str     0x0000000000000f42       0x99 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_uqi.o)
+ .debug_str     0x0000000000000fdb       0x99 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_str     0x0000000000000fdb       0x99 ../../libtock-c/libc++/cortex-m/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000000fdb      0x21f ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+                                        0x69e (size before relaxing)
+ .debug_str     0x00000000000011fa       0xb4 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-impure.o)
+                                        0x652 (size before relaxing)
+ .debug_str     0x00000000000012ae      0x33b ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+                                        0x991 (size before relaxing)
+ .debug_str     0x00000000000015e9       0xaa ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+                                        0x96b (size before relaxing)
+ .debug_str     0x0000000000001693      0x1de ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+                                        0x7cc (size before relaxing)
+ .debug_str     0x0000000000001871      0x1a6 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+                                        0x914 (size before relaxing)
+ .debug_str     0x0000000000001a17       0x4e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+                                        0x7c8 (size before relaxing)
+ .debug_str     0x0000000000001a65      0x152 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+                                        0x7c3 (size before relaxing)
+ .debug_str     0x0000000000001bb7      0x183 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+                                        0xc60 (size before relaxing)
+ .debug_str     0x0000000000001d3a       0x9a ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+                                        0xbde (size before relaxing)
+ .debug_str     0x0000000000001dd4       0x54 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+                                        0x695 (size before relaxing)
+ .debug_str     0x0000000000001e28       0x9f ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+                                        0x81c (size before relaxing)
+ .debug_str     0x0000000000001ec7       0x50 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+                                        0x7db (size before relaxing)
+ .debug_str     0x0000000000001f17       0x40 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+                                        0x692 (size before relaxing)
+ .debug_str     0x0000000000001f57       0x55 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+                                        0x7d6 (size before relaxing)
+ .debug_str     0x0000000000001fac       0x40 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+                                        0x682 (size before relaxing)
+ .debug_str     0x0000000000001fec       0x63 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+                                        0x804 (size before relaxing)
+ .debug_str     0x000000000000204f       0x72 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+                                        0x855 (size before relaxing)
+ .debug_str     0x00000000000020c1       0x47 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+                                        0x690 (size before relaxing)
+ .debug_str     0x0000000000002108      0x16e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+                                        0x949 (size before relaxing)
+ .debug_str     0x0000000000002276       0x5e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+                                        0x678 (size before relaxing)
+ .debug_str     0x00000000000022d4       0x4b ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+                                        0x986 (size before relaxing)
+ .debug_str     0x000000000000231f       0x59 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+                                        0x67e (size before relaxing)
+ .debug_str     0x0000000000002378       0x24 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+                                        0x782 (size before relaxing)
+ .debug_str     0x000000000000239c       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+                                        0x788 (size before relaxing)
+ .debug_str     0x00000000000023c8       0x3f ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+                                        0x690 (size before relaxing)
+ .debug_str     0x0000000000002407       0x6b ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+                                        0x68e (size before relaxing)
+ .debug_str     0x0000000000002472       0x4d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+                                        0x7f0 (size before relaxing)
+ .debug_str     0x00000000000024bf       0x49 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+                                        0x68c (size before relaxing)
+ .debug_str     0x0000000000002508        0xf ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+                                        0x75d (size before relaxing)
+ .debug_str     0x0000000000002517       0x7e ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+                                        0x99b (size before relaxing)
+ .debug_str     0x0000000000002595       0xfe ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+                                        0xbdf (size before relaxing)
+ .debug_str     0x0000000000002693       0x99 ../../libtock-c/libc++/cortex-m/libgcc.a(_thumb1_case_shi.o)
+ .debug_str     0x0000000000002693       0x99 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_str     0x0000000000002693       0xa7 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+                                        0x664 (size before relaxing)
+ .debug_str     0x000000000000273a       0x4d ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+                                        0x683 (size before relaxing)
+ .debug_str     0x0000000000002787       0x4e ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
+                                        0x674 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x102c
+ .debug_frame   0x0000000000000000       0x90 build/cortex-m0/main.o
+ .debug_frame   0x0000000000000090       0x9c ../../libtock-c/libtock/build/cortex-m0/libtock.a(button.o)
+ .debug_frame   0x000000000000012c       0x5c ../../libtock-c/libtock/build/cortex-m0/libtock.a(crt0.o)
+ .debug_frame   0x0000000000000188      0x318 ../../libtock-c/libtock/build/cortex-m0/libtock.a(tock.o)
+ .debug_frame   0x00000000000004a0       0x80 ../../libtock-c/libtock/build/cortex-m0/libtock.a(led.o)
+ .debug_frame   0x0000000000000520       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000540       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000570       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000598       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000005b8       0x54 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-printf.o)
+ .debug_frame   0x000000000000060c      0x158 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000764       0x50 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000007b4       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000007e8       0xa8 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000890       0x58 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000008e8       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000918       0x90 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000009a8       0x4c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000000009f4       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000a24       0x34 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000a58       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000a88       0x6c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000af4       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000b24       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000b54       0x58 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000bac       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x0000000000000bcc       0x28 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000bf4       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000c24       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000c54       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000c84       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000cb4       0x50 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000d04       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000d34       0x30 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000d64       0x20 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000d84       0xe8 ../../libtock-c/libtock/build/cortex-m0/libtock.a(sys.o)
+ .debug_frame   0x0000000000000e6c      0x108 ../../libtock-c/libtock/build/cortex-m0/libtock.a(console.o)
+ .debug_frame   0x0000000000000f74       0x20 ../../libtock-c/libc++/cortex-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000f94       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000fc0       0x40 ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000001000       0x2c ../../libtock-c/newlib/cortex-m/v6-m/libc.a(lib_a-strncpy.o)
